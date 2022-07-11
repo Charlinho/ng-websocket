@@ -2,20 +2,28 @@
     <br>WebSocket app with Angular + NodeJS
 </h1>
 
-## Running Node.js Server
-Go to `server` folder 
-> 
-Run `npm install` command
+<h2>Getting Started</h2>
+
 >
-After installed run `npm start`
+>
+### Running Node.js Server
+Go to `server` folder 
 
+Run below command
+> `npm install`
 
-## Running the Client app
+After installed, run below command
+> `npm start`
+
+### Running the Client app
 Go to `client` folder
 >
-Run `npm install` command
->
-After installed run `npm start` or `ng serve`
+Run run below command
+> `npm install`
+
+After installed, run one of commands
+
+> `npm start` or `ng serve`
 
 
 Browse: http://localhost:4200
